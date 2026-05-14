@@ -1,0 +1,17 @@
+{
+    "active_positions": [],
+    "system_upgrades": [
+        {
+            "id": "ATR_RISK",
+            "name": "ATR Risk Engine",
+            "status": "OFFLINE"
+        },
+        {
+            "id": "HURST_FILTER",
+            "name": "Hurst Exponent Filter",
+            "status": "OFFLINE"
+        }
+    ],
+    "global_status": "BEAST_MODE_INITIALIZED",
+    "last_synced": "2026-05-13T01:18:00Z"
+}
