@@ -4,12 +4,12 @@
         {
             "id": "ATR_RISK",
             "name": "ATR Risk Engine",
-            "status": "ERROR"
+            "status": "ONLINE"
         },
         {
             "id": "HURST_FILTER",
             "name": "Hurst Exponent Filter",
-            "status": "ERROR"
+            "status": "ONLINE"
         }
     ],
     "global_status": "BEAST_MODE_INITIALIZED",
